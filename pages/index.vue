@@ -50,7 +50,7 @@
 
       <div class="pt-6">
         <div class="block text-sm font-medium text-gray-700">{{ activeLanguage }}</div>
-        <pre class="rounded-md shadow-md px-4 text-gray-400 bg-gray-900">
+        <pre class="overflow-auto rounded-md shadow-md px-4 text-gray-400 bg-gray-900">
           {{ code }}
         </pre>
       </div>
