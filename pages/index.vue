@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="max-w-3xl mx-auto px-4 py-8">
+    <div class="">
       <div class="pt-6 text-3xl text-center font-bold text-indigo-500">
         metatags generator
       </div>
@@ -93,7 +93,7 @@ export default {
       description: '',
       url: '',
       languages,
-      activeLanguage: languages.Nuxt
+      activeLanguage: languages.Nuxt,
     }
   }
 }

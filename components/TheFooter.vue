@@ -3,7 +3,7 @@
     <div class="max-w-7xl mx-auto px-4">
       <div class="pt-5 pb-12 flex items-center justify-center">
         <p class="mt-8 text-sm leading-6 text-zinc-400 md:mt-0 md:order-1">
-          metatags generator • a side project by <span class="ceator-preview hover:text-indigo-500 text-zinc-800">
+          tools by karngyan.com • a side project by <span class="ceator-preview hover:text-indigo-500 text-zinc-800">
           <a class="hidden md:inline-block" rel="noreferrer" target="_blank" href="https://twitter.com/gyankarn">
           <creator-preview
             :avatar="avatar"

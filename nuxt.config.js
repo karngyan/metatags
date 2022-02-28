@@ -9,7 +9,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'metatags',
+    title: 'tools by karngyan.com',
     htmlAttrs: {
       lang: 'en',
     },
